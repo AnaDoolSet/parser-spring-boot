@@ -1,7 +1,7 @@
 # Parser Spring Boot
 
 This is a small back end to get myself used to spring boot. It reads a CSV, parse it into Json, and send it back to the front end part.
-For further details, see the front end part of this project.
+For further details, see the [front end part of this project](https://github.com/AnaDoolSet/front-end-vue).
 
 ## Project Setup
 
